@@ -1,4 +1,4 @@
-def addition(a, b):
+def add(a, b):
     print(f"Sum of {a} and {b} is {a+b}")
 
-addition(123, 567)
+add(123, 567)
